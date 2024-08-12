@@ -115,7 +115,7 @@
   
   .realtors {
     grid-area: realtors;
-    background-color:blueviolet;
+    background-color:indigo;
     display: grid;
     justify-items: center;
     align-items: center;
